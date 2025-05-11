@@ -1,0 +1,14 @@
+Alice 85
+Bob 72
+Charlie 38
+Diana 95
+Edward seventy
+Frank -10
+Grace 101
+Henry
+Isabel 45 90
+
+Jack 0
+Kelly 100
+Linda 39
+Mike 40

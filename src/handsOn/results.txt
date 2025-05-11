@@ -1,0 +1,16 @@
+Valid Students:
+Alice: 85
+Bob: 72
+Charlie: 38
+Diana: 95
+Jack: 0
+Kelly: 100
+Linda: 39
+Mike: 40
+
+Failing Students:
+Charlie
+Jack
+Linda
+
+Average Grade: 58.63
